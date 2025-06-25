@@ -58,3 +58,13 @@
 
 并在logs/log_{time}.log中查看测试情况。
 
+
+
+## TODO
+
+- 更多的测试功能
+- 并行测试 xdist
+- 分布式测试框架 Selenium Grid
+
+
+
