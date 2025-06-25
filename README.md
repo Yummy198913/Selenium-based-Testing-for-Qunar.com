@@ -56,7 +56,7 @@
 
 运行 *main,.py* 文件，即可开始自动化测试，并在测试完成后自动跳出 allure 测试报告。
 
-并在logs/log_{time}.log中查看测试情况。
+并在 *logs/log_{time}.log* 中查看测试情况。
 
 
 
